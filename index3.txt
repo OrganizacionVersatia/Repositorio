@@ -1,0 +1,6 @@
+Validaciones Javascript del lado del cliente (Formulario) validarformulario.js
+Conexión con phpmyadmin (conexion.php)
+PHP de registro de usuarios (registro_usuario.php)
+Cambio del modelo - tabla de usuarios (Sincronizar a la rama registro_usuarios)
+
+NUEVO ARCHIVO PARA PROBAR FETCH Y MERGE
